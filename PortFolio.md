@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Programador apasionado de la Informatica y la Tecnologia que disfruta cada dia de poder disfrutar y seguir aprendiendo  
 <!--
 **Vmiguel96/Vmiguel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
